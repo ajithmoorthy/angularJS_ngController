@@ -1,0 +1,19 @@
+#headerWrapper{
+    width: 100;
+}
+.logo{
+    padding: 10px;
+    margin-right: 10px;
+    font-family: fantasy;
+    font-size: 35px;
+}
+.tagline{
+    font-size: 10px;
+    margin-top: 50px;
+    margin-left: 10px;
+    font-family: monospace;
+}
+.nav-wrapper{
+    margin-left:100px;
+    margin-top: 15px;
+}
